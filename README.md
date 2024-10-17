@@ -1,2 +1,2 @@
 # Individual Project Description
-For this project, I intend to create a platform that visualizes and analyzes data from novels published over the past couple of decades.
+My current plan is to develop a data analysis and visualization platform that analyzes and provides insight and visualization (drill-down/analysis options) for a dataset of movies and shows, and the program will specifically remove all pronouns, prepositions, transition words, etc from the summary, and then determine the movie/show's genre(s) from the remaining words.
